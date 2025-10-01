@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Seorang Web Developer dari Indonesia.</strong>
+  <strong>Full Stack Web Developer.</strong>
 </p>
 
 <p align="center">
