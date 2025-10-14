@@ -19,15 +19,6 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-
-Saya seorang developer yang bersemangat dalam membangun solusi digital yang fungsional dan efisien. Saat ini saya fokus pada pengembangan aplikasi web menggunakan tumpukan teknologi modern.
-
-🔭 **Saat ini saya sedang mengerjakan:**
-- **[Tunas Esta (Company Profile)](https://github.com/Amin12-greexk/tunas-esta)**: Membuat website profil perusahaan yang modern dan responsif.
-- **[Aplikasi Absensi & Penggajian](https://github.com/Amin12-greexk/Aplikasi-absen)**: Mengembangkan sistem manajemen sumber daya manusia yang terintegrasi.
-
----
-
 ### 🚀 Bahasa dan Tools
 
 <p align="left"> 
