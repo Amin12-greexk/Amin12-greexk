@@ -17,8 +17,6 @@
 </p>
 
 ---
-
-### 👨‍💻 Tentang Saya
 ### 🚀 Bahasa dan Tools
 
 <p align="left"> 
