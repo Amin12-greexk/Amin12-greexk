@@ -33,6 +33,11 @@ Pecinta teknologi yang bersemangat tentang pembangunan aplikasi web yang efisien
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amin12-greexk&theme=radical&bg_color=0f0f0f&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<!-- Tambahkan ini di bawah bagian Tentang Saya jika perlu -->
+### 📂 Proyek Unggulan Terbaru
+
+*   [**Nama Repository Baru**](https://github.com/Amin12-greexk/nama-repository-baru) - Deskripsi singkat tentang proyek ini.
+*   [**Proyek Lainnya**](https://github.com/Amin12-greexk/nama-proyek-lain) - Deskripsi singkat tentang proyek lain yang diperbarui.
 ---
 
 <!-- HUBUNGI SAYA -->
